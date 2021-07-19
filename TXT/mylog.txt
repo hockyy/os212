@@ -1,4 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  45 L02 Rapat pertama
 ZCZC W00  30 L04 Set up github pages
+ZCZC W00  45 L02 Rapat kedua
+ZCZC W00  51 L21 TutorVim and Top 100
