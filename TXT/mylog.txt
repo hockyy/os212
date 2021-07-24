@@ -5,3 +5,6 @@ ZCZC W00  45 L02 Rapat pertama
 ZCZC W00  30 L04 Set up github pages
 ZCZC W00  45 L02 Rapat kedua
 ZCZC W00  51 L21 TutorVim and Top 100
+ZCZC W01  70 L31 Reinstall and setup VBox, Change Hostname dkk
+ZCZC W01  30 L00 Proofread Slides
+ZCZC W01  40 L09 Try gem jekyll on VBox
